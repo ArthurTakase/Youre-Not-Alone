@@ -1,0 +1,15 @@
+18 11 quentin;
+25 5 Lougui;
+24 7 Hugo;
+24 8 Gaspard le BG;
+9 12 Kons;
+18 12 Mathis;
+2 11 Simon;
+28 4 Julien;
+30 11 Snaky;
+19 7 Raphaël;
+1 5 Lucas Le Touhou Player;
+10 4 Arthur;
+7 1 Roman;
+15 7 Benji le plus beau;
+1 2 Ryan;
