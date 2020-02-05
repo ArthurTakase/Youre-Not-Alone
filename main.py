@@ -1,4 +1,4 @@
-TOKEN = 'NjM4MTIyODgxMzc2NTgzNjky.XdrnzQ.eQhWeADMSKT4W5aKD38zA60ybi8'
+TOKEN = #Votre Token ici
 
 import discord #pip install discord.api
 from random import randint
